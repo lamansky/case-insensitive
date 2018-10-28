@@ -15,7 +15,10 @@
     "startsWith",
     "wrapper"
   ],
-  "author": "John Lamansky",
+  "author": {
+    "name": "Fr. John Lamansky",
+    "url": "lamansky.com"
+  },
   "license": "MIT",
   "homepage": "https://github.com/lamansky/case-insensitive",
   "repository": "lamansky/case-insensitive",
